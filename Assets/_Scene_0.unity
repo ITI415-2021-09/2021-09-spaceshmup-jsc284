@@ -402,7 +402,7 @@ MonoBehaviour:
     projectileColor: {r: 1, g: 0, b: 0.078431375, a: 1}
     damageOnHit: 10
     continuousDamage: 0
-    delayBetweenShots: 3
+    delayBetweenShots: 4
     velocity: 5
   prefabPowerUp: {fileID: 1062273549804748, guid: 9649a9a79085a854d9990613a980f435,
     type: 3}
