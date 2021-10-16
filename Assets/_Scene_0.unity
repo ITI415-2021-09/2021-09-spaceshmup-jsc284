@@ -373,8 +373,8 @@ MonoBehaviour:
     projectileColor: {r: 1, g: 1, b: 1, a: 1}
     damageOnHit: 10
     continuousDamage: 0
-    delayBetweenShots: 5
-    velocity: 50
+    delayBetweenShots: 3.5
+    velocity: 75
   - type: 2
     letter: S
     color: {r: 0, g: 0.65676546, b: 1, a: 1}
